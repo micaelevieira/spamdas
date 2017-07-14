@@ -1,6 +1,6 @@
 # Spamdas v0.1
 
-###### Projeto desenvolvido no meu TCC durante a graduação
+###### Ferramenta desenvolvida no meu TCC durante a graduação
 
 Arquivos de captura: http://bit.do/arquivos-pcap
 
